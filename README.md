@@ -1,4 +1,4 @@
-# My Project
+# About
 This is a simple Android application using Jetpack Compose that will act as a TCP IP client. It will connect to the desktop TCP IP server and send/receive a message continously.
 
 # How to Run ??<br>
